@@ -48,8 +48,8 @@ If you prefer to install manually:
 3. For each system (Debdeb, Tuun, etc.) you want to add:
    - Extract the system’s `.zip` and place its `GameData` contents into your KSP `GameData` directory (this adds a folder under `PromisedWorlds`).  
 4. Install the required dependencies:
-   - [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)  
-   - [ScaledDecorator](https://github.com/Sushutt/ScaledDecorator/releases)  
+   - [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases) (Read the Kopernicus install Guide, as Kopernicus requires it's own dependencies)
+   - [ScaledDecorator](https://github.com/Sushutt/ScaledDecorator/releases) (Included with Promised Worlds)
    - [KSP Community Fixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases)  
    - [Singularity](https://forum.kerbalspaceprogram.com/topic/193709-wip18x-112x-singularity-black-hole-shaders/) *(only required for wormholes)*  
 5. Extract each dependency’s `.zip` and place its folders into your `GameData` directory.
@@ -74,11 +74,11 @@ In the `PromisedWorlds` directory, there is a `PromisedWorldsSettings.cfg` file 
 
 | Option | Description |
 |:--|:--|
+| **Skybox** | Enables the Promised Worlds Skybox *(requires[Sigma Skybox Replacements](https://github.com/Sigma88/Sigma-Replacements/releases/tag/B_v0.5.1)* (Release 2.0.0 and above)) |
 | **Wormholes** | Enables wormholes *(requires Singularity for shaders)* |
 | **DistanceFactor** | Controls how far from Kerbol the systems will be |
 | **Rescale** | Resizes the systems *(requires [Sigma Dimensions](https://github.com/Sigma88/Sigma-Dimensions))* |
 | **RealisticStarSize** | Makes stars more realistically sized relative to planets |
-| **RandomMainMenuBody** | Shows random Promised Worlds planets on the main menu |
 | **RemoveStockScreens** | Removes stock loading screens and only shows PW's |
 
 ## 🔨 Contributors
