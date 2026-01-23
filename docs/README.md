@@ -75,7 +75,7 @@ We'd like to thank all the Promised Worlds contributors who dedicated their time
 | **Project Lead** | Emu (@Constructalor) |
 | **Community Manager** | vision |
 | **Developers** | Arekusu, averageksp, techo, levitato, NexusHelium, ProximaCentauri, Sushut, wpetula |
-| **Contributors** | kerbalcommander543, Lad-8008, Localz, Nerdy Boy, Omni-Man, Oprissmian, pilot, YGTE, KSS2 Team |
+| **Contributors** | kerbalcommander543, Lad-8008, Localz, Nerdy Boy, Omni-Man, Oprissmian, pilot, YGTE |
 | **Translators** | haumea/tankocat, Chitak, Datsk, lebobas, Leo, Omni-Man, oprissmian, tuna_army1444, undex, zTallsTwo, zhuzhu, Alphastar, satellitetorifune, ElyTheElf, Bustellar, BoxyAerospace |
 
 As of now, we have **32** people actively contributing.
