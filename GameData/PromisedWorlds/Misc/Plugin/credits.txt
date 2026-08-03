@@ -46,4 +46,4 @@ Translators:
 
 As of now, we have 29 people actively contributing. Once again, thank you.
 
-Promised Worlds Settings GUI (PromisedWorlds.dll) Copyright © Promised Worlds Dev Team and averageksp, released under the GNU General Public License version 3. See PluginLicense.txt.
+Promised Worlds Settings GUI (PromisedWorlds.dll) Copyright © Promised Worlds Dev Team, averageksp. All rights reserved. For more information see License.txt
