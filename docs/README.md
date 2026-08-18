@@ -6,6 +6,10 @@
 ![KSP Version](https://img.shields.io/badge/KSP-1.12.x-blue.svg)
 # 🌌 Promised Worlds
 
+> [!CAUTION]
+> # Important (Please read)
+> Former Lead Developer Emu has decided to archive this Project and as such this repository will no longer receive any updates or support whatsoever. 
+
 Promised Worlds is a faithful revival of the solar systems Intercept Games planned to release for KSP 2. Want to brave the crater lakes of Gurdamma? Launch between the molten seas of Rask and Rusk? Our team of veteran KSP 1 modders is working around the globe to bring you those experiences and more in KSP 1.
 
 So far, we have implemented the Debdeb system. The Tuun system is being developed, and several of its planets are available in the public builds. The Qeg system is early in development - since we have very little information to go on, we are drawing up concepts for its planets.
