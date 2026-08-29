@@ -1,0 +1,11 @@
+// Extend the docking port rotation limits from -15°/15° to -180°/180°
+// Also increase the rotation speed from 2.5°/s to 10°/s
+
+@PART[*]:HAS[@MODULE[ModuleDockingNode]:HAS[#canRotate[True]]]:FINAL
+{
+	@MODULE[ModuleDockingNode]:HAS[#canRotate[True]],*
+	{
+		%traverseVelocity = 10
+		%hardMinMaxLimits = -180,180
+	}
+}

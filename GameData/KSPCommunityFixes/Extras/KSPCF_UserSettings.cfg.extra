@@ -1,0 +1,11 @@
+// If you want to disable some KSPCF patches or customize your configuration,
+// copy this file in your "GameData" folder and remove the ".extra" extension.
+// Then edit the file and replace "PatchName" with the patch(s) you want to 
+// disable (add new lines to disable multiple patches).
+// To see the full list of patch names, look at the Settings.cfg file or in
+// the readme.
+
+@KSP_COMMUNITY_FIXES:AFTER[KSPCommunityFixes]
+{
+	@PatchName = false
+}
